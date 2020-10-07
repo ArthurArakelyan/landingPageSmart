@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Font Awesome 5 Pro Solid';
+    src: url('FontAwesome5Pro-Solid.eot');
+    src: url('FontAwesome5Pro-Solid.eot?#iefix') format('embedded-opentype'),
+        url('FontAwesome5Pro-Solid.woff2') format('woff2'),
+        url('FontAwesome5Pro-Solid.woff') format('woff'),
+        url('FontAwesome5Pro-Solid.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Duotone Solid';
+    src: url('FontAwesome5Duotone-Solid.eot');
+    src: url('FontAwesome5Duotone-Solid.eot?#iefix') format('embedded-opentype'),
+        url('FontAwesome5Duotone-Solid.woff2') format('woff2'),
+        url('FontAwesome5Duotone-Solid.woff') format('woff'),
+        url('FontAwesome5Duotone-Solid.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Pro Light';
+    src: url('FontAwesome5Pro-Light.eot');
+    src: url('FontAwesome5Pro-Light.eot?#iefix') format('embedded-opentype'),
+        url('FontAwesome5Pro-Light.woff2') format('woff2'),
+        url('FontAwesome5Pro-Light.woff') format('woff'),
+        url('FontAwesome5Pro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Brands Regular';
+    src: url('FontAwesome5Brands-Regular.eot');
+    src: url('FontAwesome5Brands-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FontAwesome5Brands-Regular.woff2') format('woff2'),
+        url('FontAwesome5Brands-Regular.woff') format('woff'),
+        url('FontAwesome5Brands-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Regular';
+    src: url('FontAwesome5Pro-Regular.eot');
+    src: url('FontAwesome5Pro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FontAwesome5Pro-Regular.woff2') format('woff2'),
+        url('FontAwesome5Pro-Regular.woff') format('woff'),
+        url('FontAwesome5Pro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
